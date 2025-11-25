@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="news.xsl"?>
+<news>
+  <article>
+    <title>В Нальчике открылся новый парк в Залазном</title>
+    <date>2025-11-18</date>
+    <author>Администрация г. Нальчика</author>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Nalchik_Park.jpg/600px-Nalchik_Park.jpg</image>
+    <content>На территории бывшей промзоны благоустроен современный парк с детскими площадками и велодорожками.</content>
+  </article>
+  <article>
+    <title>КБГУ запускает стажировки для школьников</title>
+    <date>2025-11-20</date>
+    <author>Пресс-служба КБГУ</author>
+    <image>https://kbgu.ru/images/university/main-building-kbgu.jpg</image>
+    <content>Проект «Юный исследователь» стартует в декабре для учащихся 9–11 классов.</content>
+  </article>
+  <article>
+    <title>Фестиваль горных народов в Нальчике</title>
+    <date>2025-11-15</date>
+    <author>Минкультуры КБР</author>
+    <content>Ежегодный фестиваль соберёт артистов со всего Северного Кавказа.</content>
+    <!-- Изображение отсутствует — обработаем в XSLT -->
+  </article>
+  <article>
+    <title>Движение ограничат на проспекте Ленина</title>
+    <date>2025-11-22</date>
+    <author>ГИБДД по КБР</author>
+    <image>https://upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Nalchik_Lenin_Avenue.jpg/600px-Nalchik_Lenin_Avenue.jpg</image>
+    <content>В связи с фестивалем национальных культур 30 ноября перекроют участок проспекта.</content>
+  </article>
+</news>
