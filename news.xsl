@@ -50,14 +50,7 @@
 
             <!-- Условное отображение изображения -->
             <xsl:if test="image">
-              <img>
-                <xsl:attribute name="src">
-                  <xsl:value-of select="image"/>
-                </xsl:attribute>
-                <xsl:attribute name="alt">
-                  <xsl:value-of select="title"/>
-                </xsl:attribute>
-              </img>
+              <img src="{image}" alt="{title}"/>
             </xsl:if>
 
             <!-- Обработка одного или нескольких тегов <content> -->
